@@ -1,0 +1,11 @@
+=== [MAIN CLASS STATIC BLOCK] UNEB Registration System starting up ===
+=== [MAIN METHOD] Starting candidate registration ===
+>>> [STATIC BLOCK] Loading UNEB examination settings...
+  -> [INSTANCE BLOCK] Setting default values for new candidate #1
+  -> [CONSTRUCTOR] Registering Nakato Sarah from Gayaza High School
+  -> [INSTANCE BLOCK] Setting default values for new candidate #2
+  -> [CONSTRUCTOR] Registering Okello James from St. Mary's College Kisubi
+  -> [INSTANCE BLOCK] Setting default values for new candidate #3
+  -> [CONSTRUCTOR] Registering Akello Grace from Mt. St. Mary's Namagunga
+Total candidates registered: 3
+Order: STATIC BLOCK -> INSTANCE BLOCK -> CONSTRUCTOR
